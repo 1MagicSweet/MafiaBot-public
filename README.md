@@ -1,2 +1,5 @@
 # MafiaBot
-Discord Bot for Mafia game. Currently under development.
+Discord Bot for Mafia game.
+
+Libraries:
+JDA: https://github.com/DV8FromTheWorld/JDA

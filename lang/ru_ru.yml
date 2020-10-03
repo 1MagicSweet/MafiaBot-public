@@ -1,0 +1,54 @@
+unknown-command: **Неизвестная команда.** Проверьте правильность написания и попробуйте снова.
+chat-channel-closed: Канал с [entry] закрыт.
+chat-channel-started: Открыт канал с [entry].
+you-are-not-in-voice: [mention] вы не в голосовом канале! Чтобы начать игру с ведущим в вашем лице, вам необходимо зайти в голосовой канал!
+need-at-least-8-players-to-start: **Ошибка при создании игры!** Необходимо как минимум 8 игроков, чтобы начать игру!
+ingame-role-channel-name: Игра [game_id]
+spectating-role-channel-name: Наблюдает [game_id]
+moderator-role-channel-name: Ведущий [game_id]
+moderator-name-channel-name: ! Ведущий
+your-role-start: Ваша роль: **[role]**
+category-channel-name: Игра [id]
+yakuzas-chat-channel-name: чат-якудз
+mafia-chat-channel-name: чат-мафии
+control-channel-name: ведущий
+moderator-chats-channel-name: чаты
+game-chat-channel-name: чат-игры
+voting-channel-name: голосование
+game-voice-channel-name: Игра
+spectators-channel-name: Spectators
+join-to-spectate-channel-name: Наблюдать за игрой
+failed-to-move-no-perms: [mention] Ошибка при добавлении игрока [member] в голосовой канал из-за недостатка прав.
+innocent-role-name: Мирный житель
+mafia-role-name: Мафия
+mafia-don-role-name: Дон мафии
+detective-role-name: Комиссар
+doctor-role-name: Доктор
+singleton-role-name: Одиночка
+journalist-role-name: Журналист
+thief-role-name: Вор
+prospector-role-name: Разведчик
+yakuza-role-name: Якудза
+sheriff-role-name: Шериф
+liar-role-name: Аферист
+language-set: Язык установлен на [language] ([region])
+notification-text: Уведомление от [member] ([server]): [new_line][text]
+notification-sent: Уведомлено [number] пользователей
+no-perms-to-preform-command: **Недостаточно прав.** [new_line]Если вы уверены, что это ошибка, попросите администратора выдать вам соответствующие права.
+current-settings-title: Текущие настройки игры:
+current-settings-language: **Язык:** [language] ([region])
+current-settings-roles: **Роли, отличные от стандартных:** [roles]
+voting-embed-title: Голосование
+voting-embed-vote-members: Участники голосования
+voting-finished-embed-field-name: Голосование завершено
+voting-finished-embed-field-desc-death: Против игрока [player] проголосовало большинство
+voting-finished-embed-field-desc-equal: Игроки [players] разделили между собой голоса
+only-moderator-command-control: This command can be preformed only by moderator in [channel] channel!
+only-moderator-command-control: Эта команда может быть выполнена только ведущим в канале [channel]!
+voting-started: Голосование началось!
+voting-over: Голосование завершено!
+player-is-dead: Этот игрок мёртв!
+roles-in-this-game: Роли в игре: [new_line]
+off: выкл.
+on: вкл.
+config-version: 1

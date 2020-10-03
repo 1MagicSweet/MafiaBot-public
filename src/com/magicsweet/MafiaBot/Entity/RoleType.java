@@ -1,0 +1,16 @@
+package com.magicsweet.MafiaBot.Entity;
+
+public enum RoleType {
+INNOCENT,
+MAFIA,
+MAFIA_DON,
+DETECTIVE,
+DOCTOR,
+SINGLETON,
+JOURNALIST,
+THIEF,
+PROSPECTOR,
+YAKUZA,
+SHERIFF,
+GAMBLER;
+}

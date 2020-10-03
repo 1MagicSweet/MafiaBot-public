@@ -1,0 +1,36 @@
+unknown-command: **Не​вѣдомый​ приказъ.** Уточните правописание у писаря.
+chat-channel-closed: Сообщение с [entry] прервано.
+chat-channel-started: Сообщение с [entry] отправлено.
+you-are-not-in-voice: [mention] вы не дворянинъ! Чтобы начать бесѣду с бояриномъ въ вашемъ лице, вамъ необходимо прийти на совещание съ губернаторомъ!
+need-at-least-8-players-to-start: **Ошибка при создании бесѣды!** Необходимо какъ минимумъ 8 крестьянъ, чтобы заплатить оброкъ!
+ingame-role-channel-name: Бесѣда [game_id]
+spectating-role-channel-name: Наблюдаетъ [game_id]
+moderator-role-channel-name: Бояринъ [game_id]
+moderator-name-channel-name: ! Бояринъ
+your-role-start: Ваша фамилия: **[role]**
+category-channel-name: Бесѣда [id]
+yakuzas-chat-channel-name: голубь-туземцевъ
+mafia-chat-channel-name: голубь-разбойниковъ
+control-channel-name: Бояринъ
+moderator-chats-channel-name: голубиная-почта
+game-chat-channel-name: городской-сборъ
+voting-channel-name: выборы
+game-voice-channel-name: Бесѣда
+spectators-channel-name: Spectators
+join-to-spectate-channel-name: Проведать крепостныхъ
+failed-to-move-no-perms: [mention] Отказъ въ приглашении крестьянина [member] въ бесѣду изъ-за крепостной зависимости.
+innocent-role-name: Крестьянинъ
+mafia-role-name: Разбойникъ
+mafia-don-role-name: Глава разбойниковъ 
+detective-role-name: Часовой
+doctor-role-name: Попъ
+singleton-role-name: Еретикъ
+journalist-role-name: Сплетникъ
+thief-role-name: Змѣй-горынычъ​​
+prospector-role-name: Ревизоръ
+yakuza-role-name: Туземецъ
+sheriff-role-name: Богатырь
+language-set: Диалектъ установленъ на [language] ([region])
+notification-text: Вѣсточка отъ [member] ([server]): [new_line][text]
+notification-sent: Увѣдомлено [number] крестьянъ
+config-version: 1

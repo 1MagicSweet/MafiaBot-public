@@ -1,0 +1,22 @@
+default_roles_1: mafia, mafia, detective, doctor
+default_roles_2: mafia, mafia, detective, doctor
+default_roles_3: mafia, mafia, detective, doctor
+default_roles_4: mafia, mafia, detective, doctor
+default_roles_5: mafia, mafia, detective, doctor
+default_roles_6: mafia, mafia, detective, doctor
+default_roles_7: mafia, mafia, detective, doctor
+default_roles_8: mafia, mafia, detective, doctor
+default_roles_9: mafia, mafia, detective, doctor, singleton
+default_roles_10: mafia, mafia, journalist, doctor, singleton
+default_roles_11: mafia, mafia, mafia_don, journalist, doctor, singleton
+default_roles_12: mafia, mafia, mafia_don, journalist, doctor, singleton, prospector
+default_roles_13: mafia, mafia, mafia_don, journalist, doctor, singleton, prospector
+default_roles_14: mafia, mafia, mafia_don, journalist, doctor, singleton, prospector
+default_roles_15: mafia, mafia, mafia_don, journalist, doctor, singleton, prospector
+default_roles_16: mafia, mafia, mafia, yazuka, yazuka, yazuka, mafia_don, journalist, doctor, singleton, prospector
+default_roles_17: mafia, mafia, mafia, yazuka, yazuka, yazuka, mafia_don, journalist, doctor, singleton, prospector
+default_roles_18: mafia, mafia, mafia, yazuka, yazuka, yazuka, mafia_don, journalist, doctor, singleton, prospector
+default_roles_19: mafia, mafia, mafia, yazuka, yazuka, yazuka, mafia_don, journalist, doctor, singleton, prospector
+default_roles_20: mafia, mafia, mafia, yazuka, yazuka, yazuka, mafia_don, journalist, doctor, singleton, prospector
+release-token: token
+nightly-token: NzM3NzE0NTU1MDg1NTIwOTg2.XyBYOA.oqnj_A5JpPEJVwwotFsURVnu6Ts

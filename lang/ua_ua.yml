@@ -1,0 +1,37 @@
+unknown-command: **Невідома команда.** Перевірте правильність написання і спробуйте знову.
+chat-channel-closed: Канал с [entry] зачиненний.
+chat-channel-started: Відкрит канал з [entry].
+you-are-not-in-voice: [mention] ви не у голосовому каналі! Щоб почати гру з ведучім у вашому лиці, вам необхідно зайти в голосовий канал!
+need-at-least-8-players-to-start: **Помилка при створенні гри!** Необхідно як мінімум 8 гравців, щоб почати гру!
+ingame-role-channel-name: Гра [game_id]
+spectating-role-channel-name: Спостерігає [game_id]
+moderator-role-channel-name: Ведучий [game_id]
+moderator-name-channel-name: ! Ведучий
+your-role-start: Ваша роль: **[role]**
+category-channel-name: Гра [id]
+yakuzas-chat-channel-name: чат-якудз
+mafia-chat-channel-name: чат-мафії
+control-channel-name: ведучий
+moderator-chats-channel-name: чати
+game-chat-channel-name: чат-гри
+voting-channel-name: голосування
+game-voice-channel-name: Гра
+spectators-channel-name: Spectators
+join-to-spectate-channel-name: Join to spectate
+failed-to-move-no-perms: [mention] Помилка при додаванні гравця [member] в голосовий канал через нестачу прав.
+innocent-role-name: Мирний житель
+mafia-role-name: Мафія
+mafia-don-role-name: Дон мафії
+detective-role-name: Комісар
+doctor-role-name: Лікарь
+singleton-role-name: Одиночка
+journalist-role-name: Журналіст
+thief-role-name: Злодій
+prospector-role-name: Розвідник
+yakuza-role-name: Якудза
+sheriff-role-name: Шеріф
+liar-role-name: Аферист
+language-set: Мова встановлена на [language] ([region])
+notification-text: Повідомлення від [member] ([server]): [new_line][text]
+notification-sent: Повідомлено [number] користувачів
+config-version: 1

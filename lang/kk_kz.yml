@@ -1,0 +1,40 @@
+﻿unknown-command: **Белгісіз команда.** Емлені тексеріп, қайталап көріңіз.
+chat-channel-closed: Арна [entry] ден жабық.
+chat-channel-started: [entry] ден ашық арна.
+you-are-not-in-voice: [mention] сіз дауыстық арнада емессіз! Сізбен жетекші ретінде ойынды бастау үшін дауыстық арнаға бару керек!
+need-at-least-8-players-to-start: **Ойын құру қатесі!** Сізге кем дегенде 8 ойыншы қажет
+ойынды баста!
+ingame-role-channel-name: Ойын [game_id]
+spectating-role-channel-name: Бақылайды [game_id]
+moderator-role-channel-name: Жетекші [game_id]
+moderator-name-channel-name: ! Жетекші
+your-role-start: Сіздің рөліңіз: **[role]**
+category-channel-name: Ойын [id]
+yakuzas-chat-channel-name: якудзаның-чаты
+mafia-chat-channel-name: мафияның-чаты
+control-channel-name: жетекші
+moderator-chats-channel-name: чатлар
+game-chat-channel-name: ойындары-чат
+voting-channel-name: дауыс-беру
+game-voice-channel-name: Ойын
+spectators-channel-name: Бақылаушылар
+join-to-spectate-channel-name: Бақылауға қосылыңыз
+failed-to-move-no-perms: [mention] Ойнатқышты қосу кезінде қате пайда [member] дауыстық арнаға құқықтардың болмауына байланысты болды.
+innocent-role-name: Азамат
+mafia-role-name: Мафия
+mafia-don-role-name: Мафияның бастық
+detective-role-name: Комиссар
+doctor-role-name: Дәрігер
+singleton-role-name: Жалғыз
+journalist-role-name: Журналист
+thief-role-name: Ұры
+prospector-role-name: Барлаушы
+yakuza-role-name: Якудза
+sheriff-role-name: Шериф
+game-stopped: Ойын тоқтатылды!
+game-started: Ойын басталды! Рөлдер: [roles]
+language-set: [language] ([region]) тіл орнатылды
+notification-text: [member] ([server]) хабарламасы: [new_line][text]
+notification-sent: Пайдаланушыларға [number] хабарланды.
+no-perms-to-preform-command: **Құқықтар жеткіліксіз.** [new_line]Егер бұл қате болса әкімшіден сізге тиісті құқықтарды беруді сұраңыз.
+config-version: 1

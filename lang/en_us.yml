@@ -1,0 +1,57 @@
+unknown-command: **Unknown command.** [new_line]Check syntax and try again.
+chat-channel-closed: Chat channel with [entry] closed.
+chat-channel-started: Opened chat channel with [entry].
+you-are-not-in-voice: [mention] you are not in the voice channel! [new_line]Bot doesn't know who will be playing the game with you as the moderator!
+need-at-least-8-players-to-start: **Failed to create the game!** [new_line]You need at least 8 players to start!
+ingame-role-channel-name: Game [game_id]
+spectating-role-channel-name: Spectating [game_id]
+moderator-role-channel-name: The Moderator of [game_id]
+moderator-name-channel-name: ! The Moderator
+your-role-start: Your role: **[role]**
+category-channel-name: Game [id]
+yakuzas-chat-channel-name: yakuzas-chat
+mafia-chat-channel-name: mafia-chat
+control-channel-name: the-moderator
+moderator-chats-channel-name: chats
+game-chat-channel-name: game-chat
+voting-channel-name: voting
+game-voice-channel-name: Game
+spectators-channel-name: Spectators
+join-to-spectate-channel-name: Join to spectate
+failed-to-move-no-perms: [mention] Failed to move [member] because of lack of permissions.
+innocent-role-name: Innocent
+mafia-role-name: Mafia
+mafia-don-role-name: Don of the Mafia
+detective-role-name: Detective
+doctor-role-name: Doctor
+singleton-role-name: Singleton
+journalist-role-name: Journalist
+thief-role-name: Thief
+prospector-role-name: Prospector
+yakuza-role-name: Yakuza
+sheriff-role-name: Sheriff
+liar-role-name: Gambler
+unknown-role-name: Unknown
+failed-to-stop-channel: Failed to stop the game! [new_line]Channel you're using to type this command isn't a game channel!
+game-stopped: Game stopped! Roles: [roles]
+game-started: Game Started! Roles: [roles]
+roles-in-this-game: Roles in game: [new_line]
+language-set: Language set to [language] ([region])
+notification-text: Notification from [member] ([server]): [new_line][text]
+notification-sent: Notified [number] users
+no-perms-to-preform-command: **No permission.** [new_line]If you're sure that's an error, ask an admin for specific permissions.
+current-settings-title: Current settings of Mafia:
+current-settings-language: **Language:** [language] ([region])
+current-settings-roles: **Role override:** [roles]
+off: disabled
+on: enabled
+voting-embed-title: Voting
+voting-started: Voting started!
+voting-over: Voting is over!
+voting-embed-vote-members: Voting participants
+voting-finished-embed-field-name: Voting finished
+voting-finished-embed-field-desc-death: Player [player] should be dead
+voting-finished-embed-field-desc-equal: Players [players] recieved equal votes against them
+only-moderator-command-control: This command can be preformed only by moderator in [channel] channel!
+player-is-dead: This player is dead!
+config-version: 1

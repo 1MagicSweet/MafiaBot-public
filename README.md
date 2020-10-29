@@ -2,4 +2,4 @@
 Discord Bot for Mafia game.
 
 Libraries:
-JDA: https://github.com/DV8FromTheWorld/JDA
+JDA (4.2.0): https://github.com/DV8FromTheWorld/JDA
